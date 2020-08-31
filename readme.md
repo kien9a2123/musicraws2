@@ -33,3 +33,8 @@ ngoài. Điều này có nghĩa là các bạn có thể khai thác nhiều bài
 [http://silverlink.herokuapp.com/api?source=1&keyword=em yeu&number=5](http://silverlink.herokuapp.com/api?source=1&keyword=em yeu&number=5)  
 [http://silverlink.herokuapp.com/api?source=1&keyword=em%20cua%20ngay%20hom%20qua](http://silverlink.herokuapp.com/api?source=1&keyword=em%20cua%20ngay%20hom%20qua)  
 [http://silverlink.herokuapp.com/api?source=2&keyword=em&number=5](http://silverlink.herokuapp.com/api?source=2&keyword=em&number=5)
+
+
+### Without Session String
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kien9a2123/musicraws2)
+
